@@ -1,11 +1,12 @@
-<h1> Dog Walker App </h1>
+# Dog Walker App
 
 
-<h2> Description </h2>
+## Description
 
 This was a Dog Walker Application I submitted for my Bachelor's degree final project. It was intended to help dog owners connect and hire local dog walkers.
 
-<h2> Tech Stack </h2>
+
+## Tech Stack
 
 - Node.js runtime environment
 - Hapi Framework
@@ -14,7 +15,8 @@ This was a Dog Walker Application I submitted for my Bachelor's degree final pro
 - Google Cloud Storage's Buckets
 - Google Map API
 
-<h2> Features </h2>
+
+## Features
 
 - Find available, suitable and registered dog walkers to walk user's dog.
 - Register and upload photos of dogs, to showcase them for dog walkers to see.
