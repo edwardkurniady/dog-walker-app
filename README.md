@@ -3,7 +3,7 @@
 
 ## Description
 
-A dog-walker application intended to help dog owners connect and hire local dog walkers.
+In my Bachelor's degree final project, I designed and developed an application intended to help dog owners connect and hire local dog walkers, streamlining the process of finding and hiring.
 
 
 ## Tech Stack
