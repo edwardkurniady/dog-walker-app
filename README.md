@@ -3,7 +3,7 @@
 
 ## Description
 
-This was a Dog Walker Application I submitted for my Bachelor's degree final project. It was intended to help dog owners connect and hire local dog walkers.
+A dog-walker application intended to help dog owners connect and hire local dog walkers.
 
 
 ## Tech Stack
